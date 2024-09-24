@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etersal.github.io/sitemap.html.gz
+Sitemap: https://etersal.github.io/app/sitemap.html.gz
+Sitemap: https://etersal.github.io/assets/sitemap.html.gz
+Sitemap: https://etersal.github.io/css/sitemap.html.gz
+Sitemap: https://etersal.github.io/data/sitemap.html.gz
+Sitemap: https://etersal.github.io/includes/sitemap.html.gz
+Sitemap: https://etersal.github.io/item/sitemap.html.gz
+Sitemap: https://etersal.github.io/src/sitemap.html.gz
